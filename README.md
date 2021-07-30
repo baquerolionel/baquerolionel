@@ -1,7 +1,7 @@
 # Hola, soy Lionel Baquero
 ### 👨‍💻 MSc. | Programador FullStack | Profesor | Creador de contenido
 
-![https://github.com/baquerolionel](https://raw.githubusercontent.com/baquerolionel/baquerolionel/banner.png)
+![https://github.com/baquerolionel](https://raw.githubusercontent.com/baquerolionel/baquerolionel/master/banner.png)
 
 En 2016 me recibí como Ingeniero en Ciencias Informáticas y en 2019 de Máster en Informática Avanzada. Me dedico al desarrollo de software a tiempo completo y a la creación de contenido, así como a impartir cursos que ayuden a otros a formarse como desarrolladores. 
 
